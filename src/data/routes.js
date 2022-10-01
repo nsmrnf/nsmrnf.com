@@ -5,20 +5,8 @@ const routes = [
     path: '/',
   },
   {
-    label: 'About',
-    path: '/about',
-  },
-  {
-    label: 'Resume',
-    path: '/resume',
-  },
-  {
     label: 'Projects',
     path: '/projects',
-  },
-  {
-    label: 'Stats',
-    path: '/stats',
   },
   {
     label: 'Contact',
@@ -27,3 +15,17 @@ const routes = [
 ];
 
 export default routes;
+
+/*   {
+    label: 'About',
+    path: '/about',
+  },
+  {
+    label: 'Resume',
+    path: '/resume',
+  },
+  {
+    label: 'Stats',
+    path: '/stats',
+  },
+*/

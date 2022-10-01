@@ -1,47 +1,34 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Buhgaltersky standart LLC',
+    subtitle: 'the accounting firm of the Belarus ',
+    link: 'https://ab-s.by/',
+    image: '/images/projects/abs.jpg',
+    date: '2016-12-07',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'An accounting process. '
+      + 'Buhgaltersky standart LLC is providing services in the area of accounting and finance, '
+      + 'since 2016. Being a CFO and CTO, made a business process and a web-site '
+      + 'including the CRM system.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'XBRL BY',
+    subtitle: 'The Belarus jurisdiction of the XBRL International',
+    link: 'https://xbrl.by/',
+    image: '/images/projects/xbrl.jpg',
+    date: '2017-09-20',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Being a business project developer at XBRL BY, made a web-site and a project overview ',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Finstarts LTD',
+    subtitle: 'A project of a financials',
+    link: 'https://www.finstarts.by',
+    image: '/images/projects/finstarts.jpg',
+    date: '2020-07-28',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  },
-  {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Launched a finance CRM and automatization project ',
   },
 ];
 
