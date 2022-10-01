@@ -28,5 +28,5 @@ jobs:
       run: |
           git config user.name "Nikita Smirnov"
           git config user.email "nick.smirnov2015@gmail.com"
-          git remote set-url origin https://git:$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@github.com/nsmrnf/nsmrnf.com.git
+          git remote set-url origin https://git:$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@github.com/nsmrnf/nsmrnf.github.io.git
           npm run deploy
