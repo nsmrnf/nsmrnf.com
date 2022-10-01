@@ -20,13 +20,8 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Nikita. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
-        , and <a href="https://seds.org">SEDS</a>.
+        I am a <a href="https://bseu.by/">BSEU</a> graduate, Master of economy, CFO of Buhgaltersky standart, and
+        the co-founder and CEO of <a href="https://finstarts.com">Finstarts LTD</a>.
       </p>
       <ul className="actions">
         <li>
