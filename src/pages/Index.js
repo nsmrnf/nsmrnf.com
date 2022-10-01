@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
 import Main from '../layouts/Main';
 
 const Index = () => (
@@ -26,6 +25,8 @@ const Index = () => (
         or <Link to="/contact">contact</Link> me.
       </p>
       <p> Source available <a href="https://github.com/nsmrnf/nsmrnf.com">here</a>.</p>
+      <p> Here you can contact me</p>
+
     </article>
   </Main>
 );
