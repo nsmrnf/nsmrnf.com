@@ -6,7 +6,7 @@ My personal website. An [MIT](https://github.com/nsmrnf/nsmrnf.com/blob/main/LIC
 
 ## Adapting this Project
 
-Building your own personal website from this project can take as little as 30 minutes. Follow the setup instructions below and review **detailed notes and a checklist on adapting this project [here](./docs/adapting-guide.md)**. Please feel free to reach out to me by filing an issue or emailing me at [help@mldangelo.com](mailto:help@mldangelo.com) for help configuring your project.
+Building your own personal website from this project can take as little as 30 minutes. Follow the setup instructions below and review **detailed notes and a checklist on adapting this project [here](./docs/adapting-guide.md)**. Please feel free to reach out to me by filing an issue or emailing me at [me@nsmrnf.com](mailto:me@nsmrnf.com) for help configuring your project.
 
 ## Contributing
 
